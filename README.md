@@ -2,7 +2,7 @@
 # -ISPC-Tec. Ciencias de DATOS e IA - Procesamiento del HABLA
 Portafolio de proyectos de la materia Técnicas de Procesamiento del Habla - TSCDIA
 
-## - Soy:
+## - Datos:
 | Apellido y Nombre | E-mail | GitHub |
 |:---:|:---:|:---:|
 | VILLALBA, Valeria Nieves | vnvillalba@escuelasproa.edu.ar |[ver perfil](https://github.com/Nieves862) |
