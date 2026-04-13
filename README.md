@@ -1,41 +1,57 @@
---------------------------------
-# -ISPC-Tec. Ciencias de DATOS e IA - Procesamiento del HABLA
-Portafolio de proyectos de la materia Técnicas de Procesamiento del Habla - TSCDIA
+# 🎙️ Técnicas de Procesamiento del Habla - TSCDIA
+### Portafolio de Proyectos | ISPC - Tec. Superior en Ciencias de Datos e IA
 
-## - Datos:
+---
+
+## 👤 Datos Personales
+
 | Apellido y Nombre | E-mail | GitHub |
-|:---:|:---:|:---:|
-| VILLALBA, Valeria Nieves | vnvillalba@escuelasproa.edu.ar |[ver perfil](https://github.com/Nieves862) |
+| :--- | :--- | :--- |
+| **VILLALBA, Valeria Nieves** | 📧 [vnvillalba@escuelasproa.edu.ar](mailto:vnvillalba@escuelasproa.edu.ar) | [🐙 Ver perfil](https://github.com/Nieves862) |
 
---------------------------------
-## - Expectativas:
-Mi objetivo principal es adquirir las herramientas teóricas y prácticas necesarias para comprender cómo se transforma una señal acústica en datos procesables. 
-Espero aprender a:
+---
 
-* Dominar el preprocesamiento de señales de voz (limpieza de ruido, segmentación y normalización).
+## 🎯 Expectativas de la Materia
+Mi objetivo principal es adquirir las herramientas **teóricas y prácticas** para transformar señales acústicas en datos procesables. 
+Busco específicamente:
 
-* Entender la extracción de características como los Coeficientes Cepstrales en las Frecuencias de Mel (MFCC).
+* **🧼 Preprocesamiento:** Dominar la limpieza de ruido, segmentación y normalización de señales de voz.
+* **📊 Extracción de Features:** Entender los *Coeficientes Cepstrales en las Frecuencias de Mel* (**MFCC**).
+* **🔄 Implementación:** Desarrollar modelos de **Speech-to-Text** y **Text-to-Speech** para entornos educativos.
 
-* Implementar modelos que permitan la transición de Speech-to-Text y viceversa, con el fin de aplicarlos en entornos educativos reales.
+---
 
--------------------------------
-### - Áreas de Interés
-Dentro de la Ciencia de Datos, mis intereses están fuertemente vinculados a la interacción humano-máquina:
+## 🚀 Áreas de Interés en Data Science
+Me apasiona la **interacción humano-máquina** a través de:
 
-* NLP (Procesamiento de Lenguaje Natural): Para el análisis semántico de lo que dicen los alumnos o para crear interfaces de consulta inteligentes.
+* **`NLP`** (Procesamiento de Lenguaje Natural) para análisis semántico.
+* **`Deep Learning`** aplicado a audio mediante **RNN** y **Transformers**.
+* **`Edge AI`** (IA en el borde) para optimizar modelos en hardware limitado.
 
-* Deep Learning: Específicamente el uso de Redes Neuronales Recurrentes (RNN) o Transformers aplicados al audio.
+---
 
-* Edge AI (IA en el borde): Debido a mi trabajo con robótica, me interesa cómo optimizar modelos de habla para que corran en hardware limitado.
+## 🏫 Vinculación con Escuelas PRoA
+Como docente de **Programación, Estructura de Datos y Robótica**, mi meta es integrar la IA del habla en el aula:
 
---------------------------------
-### - Vinculación con mi Labor en Escuelas PRoA
-Como docente de Programación (Python), Estructuras de Datos (MySQL) y Robótica (Arduino), busco integrar el Procesamiento del Habla de la siguiente manera:
+1.  **🤖 Interfaces de Voz en Robótica:** Comandos verbales en proyectos con **Arduino/ESP32**.
+2.  **🗄️ Consultas SQL por Voz:** Interacción con bases de datos **MySQL** mediante lenguaje natural.
+3.  **💡 Innovación Pedagógica:** Python como puente hacia aplicaciones tangibles donde la máquina "escucha y entiende".
 
-* Interfaces de Voz en Robótica: Integrar módulos de reconocimiento de voz en proyectos de Arduino/ESP32 para que los robots respondan a comandos verbales, llevando la robótica educativa a un nivel de IA aplicada.
+---
 
-* Sistemas de Consulta sobre Base de Datos: Explorar cómo el procesamiento del habla puede facilitar consultas a bases de datos MySQL mediante lenguaje natural, permitiendo que los estudiantes interactúen con los datos de forma más intuitiva.
+## 🛠️ Stack Tecnológico en Uso
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-* Innovación Pedagógica: Utilizar Python como puente para que los alumnos no solo vean código abstracto, sino aplicaciones tangibles donde la computadora "escucha" y "entiende", fomentando un pensamiento computacional más avanzado.
+---
 
+### 💡 Innovación Pedagógica e Integración en el Aula
+Mi visión es utilizar **Python** no solo como un lenguaje de programación, sino como un **puente cognitivo**. 
+El objetivo es que los estudiantes de la Escuela PRoA trasciendan el código abstracto y experimenten la tecnología de forma tangible:
+
+* **🧠 Pensamiento Computacional Avanzado:** Al trabajar con el procesamiento del habla, los alumnos deben descomponer problemas complejos (como el lenguaje humano) en procesos lógicos (muestreo, filtrado, reconocimiento).
+* **🌐 De lo Abstracto a lo Sensorial:** Implementar proyectos donde la computadora "escucha" y "entiende", transformando variables invisibles en acciones físicas o respuestas lógicas inmediatas.
+* **🔧 Empoderamiento Tecnológico:** Fomentar que los estudiantes sean creadores de herramientas de IA, y no solo consumidores, integrando sus conocimientos de **Estructuras de Datos** y **Algoritmos** en aplicaciones de impacto real.
 
