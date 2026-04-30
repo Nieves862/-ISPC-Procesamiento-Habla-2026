@@ -1,5 +1,7 @@
-# 🎙️ Técnicas de Procesamiento del Habla - TSCDIA
-### Portafolio de Proyectos | ISPC - Tec. Superior en Ciencias de Datos e IA
+---
+
+# ![Técnicas de Procesamiento del Habla](https://img.shields.io/badge/🎙️_TÉCNICAS_DE_PROCESAMIENTO_DEL_HABLA-TSCDIA-3498db?style=for-the-badge)
+### ![Portafolio](https://img.shields.io/badge/PORTAFOLIO_DE_PROYECTOS-ISPC-2c3e50?style=flat-square) ![Tecnología](https://img.shields.io/badge/TEC._SUPERIOR_EN_CIENCIAS_DE_DATOS_E_IA-blue?style=flat-square)
 
 ---
 
