@@ -62,5 +62,6 @@ El objetivo es que los estudiantes de la Escuela PRoA trasciendan el código abs
 ## 📁 Entregas y Evidencias
 * **TP 1: Procesamiento del Habla** 
     * [📓 Ver Cuaderno (Colab)](https://github.com/Nieves862/-ISPC-Procesamiento-Habla-2026/blob/main/Evidencias/TP_1_Eje_1.ipynb)
-    * [📄 Descargar Informe (PDF)](./Evidencias/TP1_Informe_Villalba.pdf)
+    * [📄 Descargar Informe (PDF)](./Evidencias/TP1_Eje1_Villalba_V_Nieves/TP1_Informe_Villalba_VNieves.pdf)
+      
 
