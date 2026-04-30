@@ -1,6 +1,6 @@
 ---
 
-# ![Técnicas de Procesamiento del Habla](https://img.shields.io/badge/🎙️_TÉCNICAS_DE_PROCESAMIENTO_DEL_HABLA-TSCDIA-3498db?style=for-the-badge)
+# ![Técnicas de Procesamiento del Habla](https://img.shields.io/badge/🎙️_TÉCNICAS_DE_PROCESAMIENTO_DEL_HABLA-TecCDDEIA-3498db?style=for-the-badge)
 ### ![Portafolio](https://img.shields.io/badge/PORTAFOLIO_DE_PROYECTOS-ISPC-2c3e50?style=flat-square) ![Tecnología](https://img.shields.io/badge/TEC._SUPERIOR_EN_CIENCIAS_DE_DATOS_E_IA-blue?style=flat-square)
 
 ---
@@ -56,4 +56,11 @@ El objetivo es que los estudiantes de la Escuela PRoA trasciendan el código abs
 * **🧠 Pensamiento Computacional Avanzado:** Al trabajar con el procesamiento del habla, los alumnos deben descomponer problemas complejos (como el lenguaje humano) en procesos lógicos (muestreo, filtrado, reconocimiento).
 * **🌐 De lo Abstracto a lo Sensorial:** Implementar proyectos donde la computadora "escucha" y "entiende", transformando variables invisibles en acciones físicas o respuestas lógicas inmediatas.
 * **🔧 Empoderamiento Tecnológico:** Fomentar que los estudiantes sean creadores de herramientas de IA, y no solo consumidores, integrando sus conocimientos de **Estructuras de Datos** y **Algoritmos** en aplicaciones de impacto real.
+
+---
+
+## 📁 Entregas y Evidencias
+* **TP 1: Procesamiento del Habla** 
+    * [📓 Ver Cuaderno (Colab)](https://github.com/Nieves862/-ISPC-Procesamiento-Habla-2026/blob/main/Evidencias/TP_1_Eje_1.ipynb)
+    * [📄 Descargar Informe (PDF)](./Evidencias/TP1_Informe_Villalba.pdf)
 
