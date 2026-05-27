@@ -70,6 +70,6 @@ El objetivo es que los estudiantes de la Escuela PRoA trasciendan el código abs
     * **Descripción:** Implementación de un flujo completo de Machine Learning para la clasificación automática de eventos sonoros utilizando extracción de features acústicas (`MFCC`, `Chromagram`, `Spectral Contrast`) y modelos predictivos supervisados.
     * **Aplicación en Proyecto "Eco-Intelligence":** Sentó las bases analíticas para dotar a nuestra estación meteorológica de **inteligencia acústica periférica (Edge AI)**, permitiendo la identificación redundante de fenómenos climáticos (como la intensidad de lluvia o ráfagas de viento) mediante su firma sonora.
     * [📓 Ver Cuaderno (Colab)](Notebook/ev_II/TP2_Eje_2.ipynb)
-    * [📄 Descargar Informe Técnico (PDF)](./Evidencias/Evidencia2_Eje2_Villalba_Nieves/Evidencia2_Informe_Villalba.pdf)
+    * [📄 Descargar Informe Técnico (PDF)](./Evidencias/TP2_Eje2_Villalba_V_Nieves/Evidencia II_Eje II_Informe_VILLALBA_VNieves.pdf)
       
 
